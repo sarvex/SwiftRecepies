@@ -10,6 +10,8 @@
 	<string>ios8swiftprogrammingcookbook</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>26C05617E2EEE23EC771BF72E7A97FD8920165BA</key>
+		<string>https://github.com/sarvex/SwiftRecepies.git</string>
 		<key>FAE4317C0AD339F317935F9863494CB31647F712</key>
 		<string>github.com:vandadnp/iOS-8-Swift-Programming-Cookbook.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>ios8swiftprogrammingcookbook.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FAE4317C0AD339F317935F9863494CB31647F712</key>
+		<key>26C05617E2EEE23EC771BF72E7A97FD8920165BA</key>
 		<string>..</string>
+		<key>FAE4317C0AD339F317935F9863494CB31647F712</key>
+		<string>../../iOS-8-Swift-Programming-Cookbook</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:vandadnp/iOS-8-Swift-Programming-Cookbook.git</string>
+	<string>https://github.com/sarvex/SwiftRecepies.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FAE4317C0AD339F317935F9863494CB31647F712</string>
+	<string>26C05617E2EEE23EC771BF72E7A97FD8920165BA</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>FAE4317C0AD339F317935F9863494CB31647F712</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iOS-8-Swift-Programming-Cookbook</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26C05617E2EEE23EC771BF72E7A97FD8920165BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftRecepies</string>
 		</dict>
 	</array>
 </dict>

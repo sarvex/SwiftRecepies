@@ -2,8 +2,8 @@
 <Workspace
    version = "1.0">
    <Group
-      location = "group:chapter-datesCalendarsEvents"
-      name = "chapter-datesCalendarsEvents">
+      location = "group:CalendarsEvents"
+      name = "DatesCalendarsEvents">
       <FileRef
          location = "group:Retrieving the Attendees of an Event/Retrieving the Attendees of an Event.xcodeproj">
       </FileRef>
@@ -33,8 +33,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-addressBook"
-      name = "chapter-addressBook">
+      location = "group:AddressBook"
+      name = "AddressBook">
       <FileRef
          location = "group:Adding Persons to Groups/Adding Persons to Groups.xcodeproj">
       </FileRef>
@@ -67,8 +67,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-basics"
-      name = "chapter-basics">
+      location = "group:Basics"
+      name = "Basics">
       <FileRef
          location = "group:Accepting User Text Input with UITextField/Accepting User Text Input with UITextField.xcodeproj">
       </FileRef>
@@ -140,8 +140,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-camera"
-      name = "chapter-camera">
+      location = "group:Camera"
+      name = "Camera">
       <FileRef
          location = "group:Detecting and Probing the Camera/Detecting and Probing the Camera.xcodeproj">
       </FileRef>
@@ -168,8 +168,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-cloud"
-      name = "chapter-cloud">
+      location = "group:Cloud"
+      name = "Cloud">
       <FileRef
          location = "group:Creating a Provision Profile/Creating a Provision Profile.xcodeproj">
       </FileRef>
@@ -202,8 +202,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-concurrency"
-      name = "chapter-concurrency">
+      location = "group:Concurrency"
+      name = "Concurrency">
       <FileRef
          location = "group:Adding Background Fetch Capabilities to Your Apps/Adding Background Fetch Capabilities to Your Apps.xcodeproj">
       </FileRef>
@@ -248,8 +248,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-data"
-      name = "chapter-data">
+      location = "group:Data"
+      name = "Data">
       <FileRef
          location = "group:Boosting Data Access in Table Views/Boosting Data Access in Table Views.xcodeproj">
       </FileRef>
@@ -282,8 +282,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-dynamics"
-      name = "chapter-dynamics">
+      location = "group:Dynamics"
+      name = "Dynamics">
       <FileRef
          location = "group:Adding a Dynamic Snap Effect to Your UI Components/Adding a Dynamic Snap Effect to Your UI Components.xcodeproj">
       </FileRef>
@@ -304,8 +304,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-extensions"
-      name = "chapter-extensions">
+      location = "group:Extensions"
+      name = "Extensions">
       <FileRef
          location = "group:Adding New Photo Editing Capabilities to the Photos App/Adding New Photo Editing Capabilities to the Photos App.xcodeproj">
       </FileRef>
@@ -323,8 +323,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-fileManagement"
-      name = "chapter-fileManagement">
+      location = "group:FileManagement"
+      name = "FileManagement">
       <FileRef
          location = "group:Creating Folders on Disk/Creating Folders on Disk.xcodeproj">
       </FileRef>
@@ -345,8 +345,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-gestures"
-      name = "chapter-gestures">
+      location = "group:Gestures"
+      name = "Gestures">
       <FileRef
          location = "group:Detecting Long Press Gestures/Detecting Long Press Gestures.xcodeproj">
       </FileRef>
@@ -370,8 +370,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-graphics"
-      name = "chapter-graphics">
+      location = "group:Graphics"
+      name = "Graphics">
       <FileRef
          location = "group:Adding Shadows to Shapes/Adding Shadows to Shapes.xcodeproj">
       </FileRef>
@@ -407,8 +407,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-health"
-      name = "chapter-health">
+      location = "group:Health"
+      name = "Health">
       <FileRef
          location = "group:Accessing and Modifying User&#x2019;s Height Information/Accessing and Modifying User&#x2019;s Height Information.xcodeproj">
       </FileRef>
@@ -432,8 +432,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-homekit"
-      name = "chapter-homekit">
+      location = "group:HomeKit"
+      name = "HomeKit">
       <FileRef
          location = "group:Adding Rooms to the User&#x2019;s Home/Adding Rooms to the User&#x2019;s Home.xcodeproj">
       </FileRef>
@@ -457,8 +457,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-maps"
-      name = "chapter-maps">
+      location = "group:Maps"
+      name = "Maps">
       <FileRef
          location = "group:Customizing the View of the Map with a Camera/Customizing the View of the Map with a Camera.xcodeproj">
       </FileRef>
@@ -488,8 +488,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-motion"
-      name = "chapter-motion">
+      location = "group:Motion"
+      name = "Motion">
       <FileRef
          location = "group:Detecting Shakes on an iOS Device/Detecting Shakes on an iOS Device.xcodeproj">
       </FileRef>
@@ -513,8 +513,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-multimedia"
-      name = "chapter-multimedia">
+      location = "group:Multimedia"
+      name = "Multimedia">
       <FileRef
          location = "group:Accessing the Music Library/Accessing the Music Library.xcodeproj">
       </FileRef>
@@ -532,8 +532,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-networking"
-      name = "chapter-networking">
+      location = "group:Networking"
+      name = "Networking">
       <FileRef
          location = "group:Creating a Tunneled VPN Connection/Creating a Tunneled VPN Connection.xcodeproj">
       </FileRef>
@@ -569,8 +569,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-notification"
-      name = "chapter-notification">
+      location = "group:Notification"
+      name = "Notification">
       <FileRef
          location = "group:Delivering Push Notifications to Your App/Delivering Push Notifications to Your App.xcodeproj">
       </FileRef>
@@ -600,8 +600,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-security"
-      name = "chapter-security">
+      location = "group:Security"
+      name = "Security">
       <FileRef
          location = "group:Authenticating the User with Touch ID/Authenticating the User with Touch ID.xcodeproj">
       </FileRef>
@@ -634,8 +634,8 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:chapter-tables"
-      name = "chapter-tables">
+      location = "group:Tables"
+      name = "Tables">
       <FileRef
          location = "group:Adding Custom Interactions to Collection Views/Adding Custom Interactions to Collection Views.xcodeproj">
       </FileRef>
