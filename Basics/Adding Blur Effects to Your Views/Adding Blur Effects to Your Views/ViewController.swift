@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     
     /* First, create the blur effect with the "Light" style.
     All the styles are defined in UIBlurEffectStyle */
-    let blurEffect = UIBlurEffect(style: .Light)
+    let blurEffect = UIBlurEffect(style: .ExtraLight)
     
     /* Then create the effect view, using the blur effect that
     we just created. The effect is of type UIVisualEffect */

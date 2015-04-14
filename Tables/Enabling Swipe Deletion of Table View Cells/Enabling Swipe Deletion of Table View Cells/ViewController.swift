@@ -23,8 +23,7 @@
 
 import UIKit
 
-class ViewController: UIViewController,
-UITableViewDataSource, UITableViewDelegate {
+class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
   
   var tableView: UITableView?
   var allRows = [String]()

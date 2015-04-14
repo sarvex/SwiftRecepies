@@ -23,35 +23,41 @@
 
 import UIKit
 
+extension UIPopoverController {
+    class var _popoversDisabled : Bool {
+        get { return false }
+    }
+}
+
 class ViewController: UIViewController {
-  
-  var selectedItem: String?
-  
-  lazy var popoverContentController: UINavigationController = {
-    let controller = PopoverTableViewController(style: .Plain)
-    controller.selectionHandler = self.selectionHandler
-    let navigationController = UINavigationController(
-      rootViewController: controller)
-    return navigationController
-    }()
-  
-  lazy var popoverController: UIPopoverController = {
-    return UIPopoverController(contentViewController:
-      self.popoverContentController)
-    }()
-  
-  func selectionHandler(selectedItem: String){
-    self.selectedItem = selectedItem
+
+    var selectedItem: String?
+
+    lazy var popoverContentController: UINavigationController = {
+        let controller = PopoverTableViewController(style: .Plain)
+        controller.selectionHandler = self.selectionHandler
+        let navigationController = UINavigationController(
+            rootViewController: controller)
+        return navigationController
+        }()
+
+    lazy var popoverController: UIPopoverController = {
+        return UIPopoverController(contentViewController:
+            self.popoverContentController)
+        }()
+
+    func selectionHandler(selectedItem: String){
+        self.selectedItem = selectedItem
+
+        /* Do something with the selected item */
+
+    }
+
+    @IBAction func displayPopover(sender: UIBarButtonItem){
+        popoverController.presentPopoverFromBarButtonItem(sender,
+            permittedArrowDirections: .Any,
+            animated: true)
+    }
     
-    /* Do something with the selected item */
-    
-  }
-  
-  @IBAction func displayPopover(sender: UIBarButtonItem){
-    popoverController.presentPopoverFromBarButtonItem(sender,
-      permittedArrowDirections: .Any,
-      animated: true)
-  }
-  
 }
 

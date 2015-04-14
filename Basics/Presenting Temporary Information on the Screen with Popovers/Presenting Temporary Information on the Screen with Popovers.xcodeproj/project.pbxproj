@@ -79,10 +79,10 @@
 			children = (
 				9D6C5BA4195D4B3900766271 /* AppDelegate.swift */,
 				9D6C5BA6195D4B3900766271 /* ViewController.swift */,
+				9D5046B5198B8E810022825E /* PopoverTableViewController.swift */,
 				9D6C5BA8195D4B3900766271 /* Main.storyboard */,
 				9D6C5BAB195D4B3900766271 /* Images.xcassets */,
 				9D6C5BA2195D4B3900766271 /* Supporting Files */,
-				9D5046B5198B8E810022825E /* PopoverTableViewController.swift */,
 			);
 			path = "Presenting Temporary Information on the Screen with Popovers";
 			sourceTree = "<group>";
