@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -154,7 +154,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					A637898A1977BB2700D19505 = {
 						CreatedOnToolsVersion = 6.0;
@@ -166,7 +166,7 @@
 				};
 			};
 			buildConfigurationList = A63789861977BB2700D19505 /* Build configuration list for PBXProject "Detecting the Availability of an Accelerometer" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -397,6 +397,7 @@
 				A63789A91977BB2700D19505 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A63789AA1977BB2700D19505 /* Build configuration list for PBXNativeTarget "Detecting the Availability of an AccelerometerTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +406,7 @@
 				A63789AC1977BB2700D19505 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

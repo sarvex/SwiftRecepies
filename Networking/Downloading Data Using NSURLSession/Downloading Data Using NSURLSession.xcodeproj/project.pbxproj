@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -154,7 +154,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D3A2CBE196D43BB009416E1 = {
 						CreatedOnToolsVersion = 6.0;
@@ -166,7 +166,7 @@
 				};
 			};
 			buildConfigurationList = 9D3A2CBA196D43BB009416E1 /* Build configuration list for PBXProject "Downloading Data Using NSURLSession" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (

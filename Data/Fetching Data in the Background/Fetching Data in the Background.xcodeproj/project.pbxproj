@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -160,7 +160,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					A6AD1E951976E5EC006AB781 = {
 						CreatedOnToolsVersion = 6.0;
@@ -172,7 +172,7 @@
 				};
 			};
 			buildConfigurationList = A6AD1E911976E5EC006AB781 /* Build configuration list for PBXProject "Fetching Data in the Background" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -408,6 +408,7 @@
 				A6AD1EB71976E5ED006AB781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A6AD1EB81976E5ED006AB781 /* Build configuration list for PBXNativeTarget "Fetching Data in the BackgroundTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +417,7 @@
 				A6AD1EBA1976E5ED006AB781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

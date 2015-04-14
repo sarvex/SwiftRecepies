@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -154,7 +154,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D2664DF19630A6C006BC5E7 = {
 						CreatedOnToolsVersion = 6.0;
@@ -166,7 +166,7 @@
 				};
 			};
 			buildConfigurationList = 9D2664DB19630A6C006BC5E7 /* Build configuration list for PBXProject "Displaying a Refresh Control for Table Views" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -399,6 +399,7 @@
 				9D2664FE19630A6C006BC5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D2664FF19630A6C006BC5E7 /* Build configuration list for PBXNativeTarget "Displaying a Refresh Control for Table ViewsTests" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +408,7 @@
 				9D26650119630A6C006BC5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

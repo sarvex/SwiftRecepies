@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -154,7 +154,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D2215E719704D5000AB694D = {
 						CreatedOnToolsVersion = 6.0;
@@ -166,7 +166,7 @@
 				};
 			};
 			buildConfigurationList = 9D2215E319704D5000AB694D /* Build configuration list for PBXProject "Listening and Reacting to Keyboard Notifications" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -397,6 +397,7 @@
 				9D22160619704D5000AB694D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D22160719704D5000AB694D /* Build configuration list for PBXNativeTarget "Listening and Reacting to Keyboard NotificationsTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +406,7 @@
 				9D22160919704D5000AB694D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -154,7 +154,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D4671DF198411F100E35636 = {
 						CreatedOnToolsVersion = 6.0;
@@ -166,7 +166,7 @@
 				};
 			};
 			buildConfigurationList = 9D4671DB198411F100E35636 /* Build configuration list for PBXProject "Retrieving Properties of Address Book Entries" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -397,6 +397,7 @@
 				9D4671FE198411F100E35636 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D4671FF198411F100E35636 /* Build configuration list for PBXNativeTarget "Retrieving Properties of Address Book EntriesTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +406,7 @@
 				9D467201198411F100E35636 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

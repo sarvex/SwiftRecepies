@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -148,7 +148,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9DAD55F219581626009F9E4F = {
 						CreatedOnToolsVersion = 6.0;
@@ -160,7 +160,7 @@
 				};
 			};
 			buildConfigurationList = 9DAD55EE19581626009F9E4F /* Build configuration list for PBXProject "Deleting Files and Folders" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -379,6 +379,7 @@
 				9DAD560C19581626009F9E4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9DAD560D19581626009F9E4F /* Build configuration list for PBXNativeTarget "Deleting Files and FoldersTests" */ = {
 			isa = XCConfigurationList;
@@ -387,6 +388,7 @@
 				9DAD560F19581626009F9E4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -148,7 +148,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D4ACE1D19595F170009B9F1 = {
 						CreatedOnToolsVersion = 6.0;
@@ -160,7 +160,7 @@
 				};
 			};
 			buildConfigurationList = 9D4ACE1919595F170009B9F1 /* Build configuration list for PBXProject "Requesting Permission to Access Calendars" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -379,6 +379,7 @@
 				9D4ACE3719595F180009B9F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D4ACE3819595F180009B9F1 /* Build configuration list for PBXNativeTarget "Requesting Permission to Access CalendarsTests" */ = {
 			isa = XCConfigurationList;
@@ -387,6 +388,7 @@
 				9D4ACE3A19595F180009B9F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

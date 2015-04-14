@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -157,7 +157,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D208C3D1959F4E2005B6C34 = {
 						CreatedOnToolsVersion = 6.0;
@@ -169,7 +169,7 @@
 				};
 			};
 			buildConfigurationList = 9D208C391959F4E2005B6C34 /* Build configuration list for PBXProject "Drawing Text" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -403,6 +403,7 @@
 				9D208C5C1959F4E2005B6C34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D208C5D1959F4E2005B6C34 /* Build configuration list for PBXNativeTarget "Drawing TextTests" */ = {
 			isa = XCConfigurationList;
@@ -411,6 +412,7 @@
 				9D208C5F1959F4E2005B6C34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

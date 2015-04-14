@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -236,7 +236,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D08F8CE19856D000078860A = {
 						CreatedOnToolsVersion = 6.0;
@@ -251,7 +251,7 @@
 				};
 			};
 			buildConfigurationList = 9D08F8CA19856D000078860A /* Build configuration list for PBXProject "Creating a Service Within Your App with Action Extensions" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -533,6 +533,7 @@
 				9D08F8ED19856D000078860A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D08F8EE19856D000078860A /* Build configuration list for PBXNativeTarget "Creating a Service Within Your App with Action ExtensionsTests" */ = {
 			isa = XCConfigurationList;
@@ -541,6 +542,7 @@
 				9D08F8F019856D000078860A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D08F90219856DAB0078860A /* Build configuration list for PBXNativeTarget "UppercaseExtension" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +551,7 @@
 				9D08F90419856DAB0078860A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

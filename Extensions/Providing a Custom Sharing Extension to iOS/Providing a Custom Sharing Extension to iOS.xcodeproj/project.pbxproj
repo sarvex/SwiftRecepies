@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -255,7 +255,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					A67A12AE197D861A002B4397 = {
 						CreatedOnToolsVersion = 6.0;
@@ -270,7 +270,7 @@
 				};
 			};
 			buildConfigurationList = A67A12AA197D861A002B4397 /* Build configuration list for PBXProject "Providing a Custom Sharing Extension to iOS" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -572,6 +572,7 @@
 				A67A12CD197D861B002B4397 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A67A12CE197D861B002B4397 /* Build configuration list for PBXNativeTarget "Providing a Custom Sharing Extension to iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +581,7 @@
 				A67A12D0197D861B002B4397 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A67A12E2197D86F0002B4397 /* Build configuration list for PBXNativeTarget "ShareExtension" */ = {
 			isa = XCConfigurationList;
@@ -588,6 +590,7 @@
 				A67A12E4197D86F0002B4397 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -160,7 +160,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					A6177128197BAD34008D1357 = {
 						CreatedOnToolsVersion = 6.0;
@@ -178,7 +178,7 @@
 				};
 			};
 			buildConfigurationList = A6177124197BAD34008D1357 /* Build configuration list for PBXProject "Storing and Synchronizing Dictionaries in iCloud" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -415,6 +415,7 @@
 				A6177147197BAD34008D1357 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A6177148197BAD34008D1357 /* Build configuration list for PBXNativeTarget "Storing and Synchronizing Dictionaries in iCloudTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				A617714A197BAD34008D1357 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -160,7 +160,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D26653519632541006BC5E7 = {
 						CreatedOnToolsVersion = 6.0;
@@ -172,7 +172,7 @@
 				};
 			};
 			buildConfigurationList = 9D26653119632541006BC5E7 /* Build configuration list for PBXProject "Feeding Custom Cells to Collection Views Using .xib Files" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -407,6 +407,7 @@
 				9D26655419632541006BC5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D26655519632541006BC5E7 /* Build configuration list for PBXNativeTarget "Feeding Custom Cells to Collection Views Using .xib FilesTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				9D26655719632541006BC5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

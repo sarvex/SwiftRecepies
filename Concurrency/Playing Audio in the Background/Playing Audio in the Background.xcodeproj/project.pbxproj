@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -157,7 +157,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
-				ORGANIZATIONNAME = "Pixolity Ltd.";
+				ORGANIZATIONNAME = "Sarvex Jatasra";
 				TargetAttributes = {
 					9D4288EC196A9EF400B75A99 = {
 						CreatedOnToolsVersion = 6.0;
@@ -174,7 +174,7 @@
 				};
 			};
 			buildConfigurationList = 9D4288E8196A9EF400B75A99 /* Build configuration list for PBXProject "Playing Audio in the Background" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -408,6 +408,7 @@
 				9D42890B196A9EF500B75A99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D42890C196A9EF500B75A99 /* Build configuration list for PBXNativeTarget "Playing Audio in the BackgroundTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +417,7 @@
 				9D42890E196A9EF500B75A99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
